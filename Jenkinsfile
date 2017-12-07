@@ -1,4 +1,4 @@
-code 
+node 
 {
 stage 'build'
 echo 'build'
